@@ -34,8 +34,6 @@
 
 - [https://raw.githubusercontent.com/freefq/free/master/v2](https://raw.githubusercontent.com/freefq/free/master/v2)
 - [https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray](https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray)
-- 
-- [https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md](https://raw.githubusercontent.com/UmeLabs/node.umelabs.dev/master/Subscribe/v2ray.md)
 
 ### SSR
 
