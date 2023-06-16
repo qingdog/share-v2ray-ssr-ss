@@ -137,7 +137,7 @@
 
 - shadowsocks-windows【Windows】：[https://github.com/shadowsocks/shadowsocks-windows/releases](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
-### 三大老牌 VPN
+### 三大老牌 VPN（废弃）
 
 - 赛风【Windows、安卓、iOS】：[https://www.psiphon3.com/zh/download.html](https://www.psiphon3.com/zh/download.html)
 - 无界【Windows、安卓】：长期不更新
@@ -150,7 +150,7 @@
 - GFW.Press【Windows、安卓】：[http://gfw.press//download.php](http://gfw.press//download.php)
 - VPN Gate Client【Windows】：[https://www.vpngate.net/cn/download.aspx](https://www.vpngate.net/cn/download.aspx)
 
-## 可白嫖机场
+## 可白嫖机场（废弃）
 
 - iKuuu VPN【每月50G】：[https://ikuuu.ltd/auth/register?code=tIZR](https://ikuuu.co/auth/register?code=tIZR)
 - Galaxy【每次100G，用完可0元购买】：[https://www.galaxy-cloud.com/#/register?code=dO6YCzyG](https://www.galaxy-cloud.com/#/register?code=dO6YCzyG)
