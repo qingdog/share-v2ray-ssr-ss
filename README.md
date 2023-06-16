@@ -27,10 +27,8 @@
 
 ### V2Ray
 
-- [https://fuckwan73.tk/](https://fuckwan73.tk/)
+
 - [https://jiang.netlify.app/](https://jiang.netlify.app/)
-- [https://freev2ray.netlify.app/](https://freev2ray.netlify.app/)
-- [https://gfwglass.tk/vmess/sub](https://gfwglass.tk/vmess/sub)
 
 - [https://raw.githubusercontent.com/freefq/free/master/v2](https://raw.githubusercontent.com/freefq/free/master/v2)
 - [https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray](https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray)
