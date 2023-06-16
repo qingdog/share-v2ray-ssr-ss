@@ -31,16 +31,10 @@
 - [https://jiang.netlify.app/](https://jiang.netlify.app/)
 - [https://freev2ray.netlify.app/](https://freev2ray.netlify.app/)
 - [https://gfwglass.tk/vmess/sub](https://gfwglass.tk/vmess/sub)
-- [https://v2ray.banyunxiaoxi.ml/](https://v2ray.banyunxiaoxi.ml/)
-- [https://youlianboshi.netlify.app/](https://youlianboshi.netlify.app/)
-- [https://fforever.github.io/v2rayfree/](https://fforever.github.io/v2rayfree/)
-- [https://anzhuohezi-welcome-you.netlify.app/](https://anzhuohezi-welcome-you.netlify.app/)
-- [https://determined-torvalds-2d879d.netlify.app](https://determined-torvalds-2d879d.netlify.app/)
-- [https://gitee.com/proxypools/sub/raw/main/vmess/vs.txt](https://gitee.com/proxypools/sub/raw/main/vmess/vs.txt)
+
 - [https://raw.githubusercontent.com/freefq/free/master/v2](https://raw.githubusercontent.com/freefq/free/master/v2)
 - [https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray](https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray)
-- [https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub](https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub)
-- [https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity)
+- 
 - [https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md](https://raw.githubusercontent.com/UmeLabs/node.umelabs.dev/master/Subscribe/v2ray.md)
 
 ### SSR
